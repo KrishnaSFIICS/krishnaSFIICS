@@ -6,7 +6,7 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 
 ## 📖 About Me
 - 🌟 **Professional Expertise**: Salesforce & IICS Development
-- 🎯 **Years of Experience**: 7 years in IT, 4 years in supporting Salesforce and IICS applications in my current role
+- 🎯 **Years of Experience**: 7 years in IT, Developing Salesforce and IICS applications in my current role
 - 🎓 **Certifications**: Salesforce Admin, Salesforce Developer, and IICS
 - 🚀 **Passion**: Always keen to learn new technologies and explore innovative solutions
 
