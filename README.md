@@ -51,9 +51,9 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 ---
 
 ## 📬 Contact Information
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
+- **Email**: krishna.majjariv@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/vamsi-krishna-713092225/
+- **GitHub**:https://github.com/KrishnaSFIICS
 
 ---
 
