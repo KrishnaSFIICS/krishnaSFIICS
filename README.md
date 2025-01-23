@@ -15,8 +15,9 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 ## 🛠 Skills
 ### Salesforce
 - Salesforce Admin & Developer (objects,Flows)
-- Apex, Visualforce, Lightning Web Components (LWC)
-- integrations, and APIs
+- Apex, Visualforce, Triggers,Lightning Web Components (LWC)
+- Rest APIs,SOAP APIs
+- SOQL,SOSL
 
 ### Informatica Intelligent Cloud Services (IICS)
 - Building and managing IICS JOBS
@@ -36,17 +37,6 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 
 ---
 
-## 💻 Projects
-### **1. Salesforce CRM Optimization**
-- Optimized workflows and process automation for improved team efficiency
-- Integrated third-party APIs to enhance CRM capabilities
-
-### **2. IICS ETL Framework**
-- Designed a robust ETL framework for handling large-scale data migrations
-- Reduced processing time by 30% through optimized mappings
-
-### **3. Lightning Migration**
-- Migrated classic Salesforce applications to Lightning Experience, enhancing user interface and system performance
 
 ---
 
