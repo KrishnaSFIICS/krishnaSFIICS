@@ -19,8 +19,8 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 - integrations, and APIs
 
 ### Informatica Intelligent Cloud Services (IICS)
-- Building and managing ETL pipelines
-- Designing efficient data migration solutions
+- Building and managing IICS JOBS
+- Integrating with other system and processing the data 
 - Experience with complex mapping and transformation logic
 
 ### Other Skills
