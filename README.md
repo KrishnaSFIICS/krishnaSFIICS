@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub Profile
 
-I am an **experienced Salesforce and IICS developer** with **7 years of experience** in IT. I specialize in delivering cutting-edge solutions using Salesforce and Informatica Intelligent Cloud Services (IICS), and I am passionate about building scalable and efficient applications.
+I am an **experienced Salesforce and IICS developer** with **7 years of experience** in IT. I specialize in delivering cutting-edge solutions using Salesforce and Informatica Intelligent Cloud Services (IICS).
 
 ---
 
