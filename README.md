@@ -14,9 +14,9 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 
 ## 🛠 Skills
 ### Salesforce
-- Salesforce Admin & Developer (custom objects, workflows, process automation)
+- Salesforce Admin & Developer (objects,Flows)
 - Apex, Visualforce, Lightning Web Components (LWC)
-- Data modeling, integrations, and APIs
+- integrations, and APIs
 
 ### Informatica Intelligent Cloud Services (IICS)
 - Building and managing ETL pipelines
@@ -24,7 +24,7 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 - Experience with complex mapping and transformation logic
 
 ### Other Skills
-- Proficiency in **SQL**, **REST APIs**, and **JavaScript**
+- Proficiency  **JavaScript**
 - Problem-solving and troubleshooting complex technical challenges
 
 ---
