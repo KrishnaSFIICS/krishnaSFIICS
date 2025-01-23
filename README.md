@@ -24,7 +24,7 @@ I am an **experienced Salesforce and IICS developer** with **7 years of experien
 - Experience with complex mapping and transformation logic
 
 ### Other Skills
-- Proficiency  **JavaScript**
+- Proficiency in  **JavaScript**
 - Problem-solving and troubleshooting complex technical challenges
 
 ---
