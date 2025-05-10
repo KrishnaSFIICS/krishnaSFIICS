@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub Profile
 
-I am an **experienced Salesforce IICS developer and MuleSoft Developer** with **8 years of experience** in IT. I specialize in delivering cutting-edge solutions using Salesforce  Informatica Intelligent Cloud Services (IICS) and Mulesoft 
+I am an **experienced Salesforce, IICS developer and MuleSoft Developer** with **8 years of experience** in IT. I specialize in delivering cutting-edge solutions using Salesforce  Informatica Intelligent Cloud Services (IICS) and Mulesoft 
 
 ---
 
